@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ohia Kennedy
-I'm a Frontend Developer with almost 2 years of experience building web applications.
+I'm a Frontend Developer with almost 4 years of experience building web applications.
 I love creating systems that make life easier using technology and mentoring others in tech.
 
 
