@@ -80,8 +80,8 @@ I’m especially passionate about:
 
 ## 📊 GitHub Stats
 
-![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhiaKennedy&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OhiaKennedy&layout=compact&theme=github_dark)
+![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennedy1-svg&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy1-svg&layout=compact&theme=github_dark)
 
 ---
 
